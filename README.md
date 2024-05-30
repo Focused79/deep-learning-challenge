@@ -6,10 +6,10 @@
 
 ## Results 
 
-The neural network model accurately made predictions 73-74% of the time after tweaking hyperparameters, such as activations functions, number of epochs, and network architecture, i.e. number of input layers, hidden layers. The researcher dabbled in using different optimizers with little success. 
+The neural network model accurately made predictions 73-74% of the time after tweaking hyperparameters, such as activations functions, number of epochs, and network architecture, i.e. number of input layers, hidden layers. The researcher dabbled in using different optimizers with little success. A second neural network was created with the kerastuner library. The loop created the ideal hyperparameters. The result was only marginally better, though still falling short of 75% accuracy. 
 
 
-Overall, the predictive ability of the model was moderately successful
+Overall, the predictive ability of the models was moderately successful.
 
 ## Resources used in module:
 1. Class lectures/slides.
